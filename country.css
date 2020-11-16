@@ -1,0 +1,312 @@
+{
+  box-sizing: border-box;
+}
+
+body {
+  font-family:'DM Serif Display', serif;
+  padding: 10px;
+  background: #f1f1f1;
+}
+
+/* Header/Blog Title */
+.header {
+  padding: 10px;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 30px;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {
+  float: left;
+  width: 25%;
+  background-color: #f1f1f1;
+  font-family:'DM Serif Display', serif;
+}
+
+/* Right column */
+.rightcolumn {
+  float: right;
+  width: 73%;
+  padding-left: 20px;
+  font-family:'DM Serif Display', serif;
+}
+
+/* image */
+.bgimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(bang.png);
+  background-size: 430px 250px;
+}
+
+.chimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(china.png);
+  background-size: 430px 250px;
+}
+
+.coteimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(cote.jpg);
+  background-size: 430px 250px;
+}
+
+.drimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(dr.png);
+  background-size: 430px 270px;
+}
+
+.ecuimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(ecuador.png);
+  background-size: 430px 270px;
+}
+
+.elimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(elsal.png);
+  background-size: 430px 270px;
+}
+
+.gerimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(germany.png);
+  background-size: 430px 270px;
+}
+
+.guatimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(guat.svg);
+  background-size: 430px 270px;
+}
+
+.indimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(india.jpg);
+  background-size: 430px 270px;
+}
+
+.isrimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(israel.png);
+  background-size: 430px 270px;
+}
+
+.krimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(korea.png);
+  background-size: 430px 270px;
+}
+
+.malayimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(malay.png);
+  background-size: 430px 270px;
+}
+
+.meximg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(mexico.jpg);
+  background-size: 430px 270px;
+}
+
+.morimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(morocco.png);
+  background-size: 430px 270px;
+}
+
+.pakiimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(paki.jpg);
+  background-size: 430px 270px;
+}
+
+.philimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(phil.png);
+  background-size: 430px 270px;
+}
+
+.portimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(portugal.png);
+  background-size: 430px 270px;
+}
+
+.primg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(pr.jpg);
+  background-size: 430px 270px;
+}
+
+.qatarimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(qatar.jpg);
+  background-size: 430px 270px;
+}
+
+.syriaimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(syria.png);
+  background-size: 430px 270px;
+}
+
+.sudimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(sudan.png);
+  background-size: 430px 270px;
+}
+
+.turkimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(turkey.jpg);
+  background-size: 430px 270px;
+}
+
+.usimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(america.jpg);
+  background-size: 430px 270px;
+}
+
+.vietimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(viet.png);
+  background-size: 430px 270px;
+}
+
+.zambimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+  height: 220px;
+  background-image: url(zambia.svg);
+  background-size: 430px 270px;
+}
+/* Add a card effect for articles */
+.card {
+  background-color: #a1b58f;
+  padding: 20px;
+  margin-top: 20px;
+  font-family:'DM Serif Display', serif;
+}
+
+.question {
+	background-color: white;
+  padding: 20px;
+  text-align: left;
+  font-family:'DM Serif Display', serif;
+}
+
+.answer {
+	background-color: white;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+}
+
+.language {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  font-family:'DM Serif Display', serif;
+ }
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #a1b58f;
+  margin-top: 20px;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {
+    width: 100%;
+    padding: 0;
+  }
+}

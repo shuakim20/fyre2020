@@ -1,0 +1,48 @@
+body{
+  background-color: LightBlue;
+}
+
+.mapdiv{
+  width:auto%;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 30px;
+  margin-left: 200px;
+}
+
+.header {
+  padding: auto;
+  text-align: center;
+  background: white;
+  margin-top: 10px;
+  font-family:'DM Serif Display', serif;
+}
+
+.description {
+  text-align: center;
+  font-family:'DM Serif Display', serif;
+}
+
+.mapdiv path{
+  fill: #a1b58f;
+  stroke: LightBlue;
+  stroke-width:1px;
+  transition: fill 0.3s;
+}
+
+.respond path{
+  cursor: pointer;
+  fill: #4c6f2c;
+}
+
+@media screen and (max-width: 1024px) {
+  * {
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  * {
+    font-size: 12px;
+  }
+}
