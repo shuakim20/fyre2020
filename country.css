@@ -38,227 +38,227 @@ body {
 /* image */
 .bgimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 160px;
   background-image: url(bang.png);
-  background-size: 430px 250px;
+  background-size: 100%;
 }
 
 .chimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(china.png);
-  background-size: 430px 250px;
+  background-size: 100%;
 }
 
 .coteimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(cote.jpg);
-  background-size: 430px 250px;
+  background-size: 100%;
 }
 
 .drimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(dr.png);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .ecuimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(ecuador.png);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .elimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 140px;
   background-image: url(elsal.png);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .gerimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 140px;
   background-image: url(germany.png);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .guatimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 140px;
   background-image: url(guat.svg);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .indimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(india.jpg);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .isrimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(israel.png);
-  background-size: 430px 270px;
+  background-size: 93%;
 }
 
 .krimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(korea.png);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .malayimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(malay.png);
-  background-size: 430px 270px;
+  background-size: 133%;
 }
 
 .meximg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 135px;
   background-image: url(mexico.jpg);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .morimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(morocco.png);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .pakiimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(paki.jpg);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .philimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 115px;
   background-image: url(phil.png);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .portimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(portugal.png);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .primg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(pr.jpg);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .qatarimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(qatar.jpg);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .syriaimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(syria.png);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .sudimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 115px;
   background-image: url(sudan.png);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .turkimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(turkey.jpg);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .usimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 120px;
   background-image: url(america.jpg);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .vietimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 165px;
   background-image: url(viet.png);
-  background-size: 430px 270px;
+  background-size: 100%;
 }
 
 .zambimg {
   background-color: #aaa;
-  width: 90%;
+  width: 87%;
   padding: 20px;
-  height: 220px;
+  height: 160px;
   background-image: url(zambia.svg);
-  background-size: 430px 270px;
+  background-size:100%;
 }
 /* Add a card effect for articles */
 .card {
